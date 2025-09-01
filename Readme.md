@@ -104,7 +104,7 @@ Job-Postings-2024-PowerBI-Dashboard-Project4/
 ## Dashboard
 
 ### Main Sheet
-![Dashboard Preview](Image/Dashboard_Main.PNG)
+![Dashboard Preview](Image/Dashboard_Main.jpg)
 
 #### Features :
 - Work Role – Total number of job postings categorized by role.
@@ -114,7 +114,7 @@ Job-Postings-2024-PowerBI-Dashboard-Project4/
 
 
 ### Job Drill Sheet
-![Dashboard Preview](Image/Dashboard_Job_Drilling.PNG)
+![Dashboard Preview](Image/Dashboard_Job_Drilling.jpg)
 
 #### Features :
 - Yearly Salary – Displays the median, maximum, and minimum annual salaries.
@@ -149,5 +149,6 @@ Job-Postings-2024-PowerBI-Dashboard-Project4/
 📧 Email: sagarmandle11135@gmail.com 
 
 🔗 [LinkedIn](https://www.linkedin.com/in/sagar-kumar-mandle-7086ba366/)
+
 
 
